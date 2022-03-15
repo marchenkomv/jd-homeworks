@@ -1,4 +1,4 @@
-package synchronization.task1;
+package synchronization;
 
 import java.util.ArrayList;
 import java.util.List;

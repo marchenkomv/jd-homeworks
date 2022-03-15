@@ -1,4 +1,4 @@
-package synchronization.task1;
+package synchronization;
 
 public class Seller {
     private Dealership dealership;

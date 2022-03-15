@@ -1,4 +1,4 @@
-package synchronization.task1;
+package synchronization;
 
 public class Main {
     public static void main(String[] args) {
