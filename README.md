@@ -45,7 +45,7 @@
 
 1.1 [Многопоточное (параллельное) программирование. Создание и запуск потоков](https://github.com/netology-code/jd-homeworks/tree/master/multithreading)
 
-1.2 [Работа с синхронизацией. Synchronization, wait, notify, sleep, lock](synchronization/README.md)
+1.2 [Работа с синхронизацией. Synchronization, wait, notify, sleep, lock](synchronization)
 
 1.3 [Volatile, threadlocal atomics](./volatile/README.md)
 
